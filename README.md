@@ -1,7 +1,7 @@
 # Utils-Helpdesk
 Software para auxilio HelpDesk de redes.
 <h1>Funcionalidades:</h1>
-<h2>As funções a seguir foram projetadas para auxílio e maior agilidade durante a operação HelpDesk. São funções bem simples porém quando reunidas no mesmo ambiente garantem maior agilidade durante a execução de tarefas.<h2>
+<h2>As funções a seguir foram projetadas para auxílio e aproveitamento de tempo durante a operação HelpDesk. São funções bem simples porém quando reunidas no mesmo ambiente garantem maior agilidade durante a execução de tarefas.<h2>
 <h4>-Alteração de IP Dinâmico/Estático.</h4>
 <h4>-Pesquisa de IP via API. (País, cidade, região, ASN, ISP e outros...)</h4>
 <h4>-Busca de fabricantes pelo MAC do dispositivo. </h4>
